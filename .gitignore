@@ -1,0 +1,4 @@
+.vscode/
+.prof_stats
+profiling_stats.txt
+__pycache__
