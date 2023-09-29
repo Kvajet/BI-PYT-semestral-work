@@ -27,4 +27,4 @@ conda activate semestral-work
 
 Následně stačí spustit soubor `__main__.py` v kořeni adresáře `sw`.
 
-Testy testují dle mého potřebnou funkcionalitu, ostatní testy jsou založené na otestovaných věceh. Spustíte je příkazem `pytest`.
+Testy testují dle mého potřebnou funkcionalitu, ostatní testy jsou založené na otestovaných věcech. Spustíte je příkazem `pytest`.
